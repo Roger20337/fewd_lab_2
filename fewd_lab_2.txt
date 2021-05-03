@@ -1,0 +1,73 @@
+Roger Batista 20337
+
+https://github.com/Roger20337/fewd_lab_2.git
+
+
+//3.
+//4.
+var myAlphabet = ['A', 'B', 'C', 'D','E','F', 'G'];
+function myAlphabetLength(){
+    console.log(myAlphabet.length);
+}
+ myAlphabetLength();
+
+//5. 
+//6.
+var planets = ['Mercury', 'Venus', 'Earth', 'Mars', 'Jupiter'];
+console.log(Planets[0]);
+console.log(Planets[1]);
+console.log(Planets[2]);
+console.log(Planets[3]);
+console.log(Planets[4]);
+
+//7. 
+
+var wowDatatypes = [char='R', double=10.10, int=25];
+console.log(wowDatatypes[0]);
+console.log(wowDatatypes[1]);
+console.log(wowDatatypes[2]);
+
+
+//8.
+
+15
+5
+50
+2
+1
+5
+6
+
+//9.
+
+5Hello
+HelloWorld!
+15
+
+
+//10.
+
+true
+false
+true
+true
+false
+true
+false
+true
+true
+true
+
+// 11. 
+// 12. 
+
+var hello = function() {
+   return 'Hello World!'; 
+};
+console.log (hello());
+
+
+//13.Which value does x have after executing the following code?
+
+
+Hi!
